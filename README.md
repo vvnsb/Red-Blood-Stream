@@ -7,9 +7,7 @@ Red Stream is a full stack website project based on online blood donation. This 
 # Screenshot
 ![image](https://github.com/vvnsb/Red-Blood-Stream/assets/103960216/629746fa-2833-479e-9a29-9b12892317e0)
 
-### Usage
 
-You are free to download and use this template for personal projects, educational purposes, or for non-commercial use. However, any public or commercial use, including publishing, marketing, or using it in a commercial project, is not permitted without explicit permission.
 
 # How you run this full website on your local computer ?
 
